@@ -15,7 +15,7 @@ The purpose of this analysis is to build a (classifier) model to predict whether
 **insert link here**
 
 #### Blog
-**insert link here**
+https://medium.com/@gabriel.erica3/an-analysis-of-reasonable-suspicion-e74482438aec
 
 
 ## Description of Data
@@ -91,7 +91,7 @@ After 68 iterations, the Gradient Boosting Classifier was the best performing mo
 * 76% of the officers in this datset are white and 88% of the officers identify as male.  The average age of the oifficers on duty were born in the year 1982, while the oldest reporting officers was born in 1946 and the youngest officers were born in 1997.
 
 #### Recommendations & Insights
-For community policing to be effective, the police force should at a minimum be representative of the total poplulation for that city and/or Precinct. Programs should be started to recruit more minorities and women to be police officers and representatives of the law. Minority representation within the law will help well intentioned laws from unfairly targeting People of Color. With so few women being stopped, it raises the questions;
+For community policing to be effective, the police force should at a minimum be representative of the total population for that city and/or Precinct. Programs should be started to recruit more minorities and women to be police officers and representatives of the law. Minority representation within the law will help well intentioned laws from unfairly targeting People of Color. With so few women being stopped, it raises the questions;
 1. Are women generally seen as less threatening by society? 
 2. Because of this, do officers often let their guards down around women? 
 3. Could this be a blind spot for the police force and for residents?
@@ -129,7 +129,7 @@ The data here raises many questions, namely;
 6. How does an officer's demeaner affected when he or she hears the phrase "supicious suspect"?
 7. How are the lines drawn between "a hunch", instinct, and bias?
 
-911 Dispatchers and officers should be enrolled in annual implicit bias training. This is pertinent for dispatchers because as the messengers and classifiers of the calls, they should be trained in asking the proper questions to identify whether actual threats are emminent or if bias is the culprit. These fielding questions will save officers time and prevent potential voilence against pedestrians who are not carrying or commiting a crime. In addition officer health plans should be expanded to include therapy. Officers need a medium to deal with stress, rage, and anxiety so that those emotions do not manifest themselves into their work dealing with the citizens that they are tasked with protecting. Lastly, police officers should be partnered with licensed counselors to deal with abuse victims, individuals with mental health issues who may be exhibiting "suspicoius behavior", and to check officer biases in real time. 
+911 Dispatchers and officers should be enrolled in annual implicit bias training. This is pertinent for dispatchers because as the messengers and classifiers of the calls, they should be trained in asking the proper questions to identify whether actual threats are imminent or if bias is the culprit. These fielding questions will save officers time and prevent potential violence against pedestrians who are not carrying or committing a crime. In addition officer health plans should be expanded to include therapy. Officers need a medium to deal with stress, rage, and anxiety so that those emotions do not manifest themselves into their work dealing with the citizens that they are tasked with protecting. Lastly, police officers should be partnered with licensed counselors to deal with abuse victims, individuals with mental health issues who may be exhibiting "suspicious behavior", and to check officer biases in real time. 
  
 
 ### Question 3: What common age groups are stopped? Are they weapon's carriers? 
