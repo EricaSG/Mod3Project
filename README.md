@@ -12,7 +12,7 @@ The purpose of this analysis is to build a (classifier) model to predict whether
 
 ## Other Resources
 #### Non Technical Presentation
-**insert link here**
+https://www.youtube.com/watch?v=ccLsVuk2WhY
 
 #### Blog
 https://medium.com/@gabriel.erica3/an-analysis-of-reasonable-suspicion-e74482438aec
@@ -88,7 +88,7 @@ After 68 iterations, the Gradient Boosting Classifier was the best performing mo
 #### Findings
 
 * Seattle is 70% White and 51% male. Black/African Americans make up 6.1% of Seattle's Population, but make up 1/3 of the Terry Stop subjects. While those who identify as women make up 20% of the Terry Stop subjects.
-* 76% of the officers in this datset are white and 88% of the officers identify as male.  The average age of the oifficers on duty were born in the year 1982, while the oldest reporting officers was born in 1946 and the youngest officers were born in 1997.
+* 76% of the officers in this datset are white and 88% of the officers identify as male.  The average age of the officers on duty were born in the year 1982, while the oldest reporting officers was born in 1946 and the youngest officers were born in 1997.
 
 #### Recommendations & Insights
 For community policing to be effective, the police force should at a minimum be representative of the total population for that city and/or Precinct. Programs should be started to recruit more minorities and women to be police officers and representatives of the law. Minority representation within the law will help well intentioned laws from unfairly targeting People of Color. With so few women being stopped, it raises the questions;
@@ -97,7 +97,7 @@ For community policing to be effective, the police force should at a minimum be 
 3. Could this be a blind spot for the police force and for residents?
 
 
-### Question 2: What defines a “hunch”? On what basis are “hunches made”? What factors influence instinct, and how do those indicts compare to residents.
+### Question 2: On what basis are “hunches made”? What factors influence these instincts, and how do those instincts impact residents?
 
 #### EDA
 <img src="/Mod_3_Images/Officer_Race_Gender.png">
@@ -138,9 +138,12 @@ The data here raises many questions, namely;
 <img src="/Mod_3_Images/SubjectAge_toWeapon_Best.png">
 
 #### Findings
-Subjects ages 26 - 35 years old were the most stopped age group, totaling 1/3 of the dataset. This age group had the most weapons found on their person. Teenagers were also subject to Terry Stops. A little over 1500 children ranging from 1 - 17, and less than 1/4 of them were found to be carrying weapons. The gun laws in the state of Washington are stricter on purchasing and possessing long guns and semiautomatic weapons, which requires a person to be at least 21 years of age, however it is still largely open to interpretation. The cost of these new measures will offset the costs of class action lawsuits for harassment & profiling, civil rights violations, and wrongful death suits.
+Subjects ages 26 - 35 years old were the most stopped age group, totaling 1/3 of the dataset. This age group had the most weapons found on their person. Teenagers were also subject to Terry Stops. A little over 1500 children ranging from 1 - 17, and less than 1/4 of them were found to be carrying weapons. The gun laws in the state of Washington are stricter on purchasing and possessing long guns and semiautomatic weapons, which requires a person to be at least 21 years of age, however it is still largely open to interpretation. 
 
 
 #### Recommendations & Insights
 The age to purchase and possess weapons of any kind should be set at 21 years old. Weapons purchasing and possession should also be restricted to households who have children under the age of 18 in the home. 
+
+### Conclusion
+The cost of these new measures will offset the costs of class action lawsuits for harassment & profiling, civil rights violations, and wrongful death suits.
 
