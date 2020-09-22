@@ -55,13 +55,13 @@ Stop Resolution: Resolution of the Stop as reported by the officer
 
 
 #### Description of Model
-In order to predict whether an arrest was made after a "Terry Stop", cleaned and was divided via a 75%/25% test train split. Continuous variables were treated with a StandardScaler, and categorical variables were treated using OneHotEncoding. finally the imbalanced data from the X_train and y_train datasets were treated with SMOTE to correct the imbalance before they were inserted into the model. I created a child class that would switch between the following baseline models when used in conjunction with the Pipeline and GridSerachCV functions:
+In order to predict whether an arrest was made after a "Terry Stop", the data was cleaned and divided via a 75%/25% test train split. Continuous variables were treated with a StandardScaler, and categorical variables were treated using OneHotEncoding. Finally the imbalanced data from the X_train and y_train datasets were treated with SMOTE to correct the imbalance before they were inserted into the model by increasing the minority class (arrests). I created a child class that would switch between the following baseline models when used in conjunction with the Pipeline and GridSerachCV functions:
 * KNeighborsClassifier()
 * RandomForestClassifier()
 * AdaBoostClassifier()
 * GradientBoosting Classifier()
 
-After 68 iterations, the Gradient Boosting Classifier was the best performing model producing a training accuarcy score of 0.998 and a testing accuracy score of 0.997. The most important features were "Officer Year of Birth", "Weapon", and "Stop Resolution_Arrest".
+After 68 iterations, the Gradient Boosting Classifier was the best performing model producing a training accuracy score of 0.998 and a testing accuracy score of 0.997. The most important features were "Officer Year of Birth", "Weapon", and "Stop Resolution_Arrest".
 
 
 ## Areas of Interest
